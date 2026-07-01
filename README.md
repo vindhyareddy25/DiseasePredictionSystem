@@ -70,6 +70,6 @@ DiseasePrediction
 
 Vindhya Reddy
 
-## Internship
+## Category
 
-CodeAlpha Machine Learning Internship
+Machine Learning Project
